@@ -1,0 +1,1 @@
+# infinite_money_bot
